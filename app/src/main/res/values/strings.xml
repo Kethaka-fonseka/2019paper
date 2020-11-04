@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pastpaper2019</string>
+    <string name="Username">UserName</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+    <string name="games">Games</string>
+    <string name="gameName">GameName</string>
+    <string name="gmaeYear">GameYear</string>
+    <string name="addbtn">add</string>
+    <string name="comment">Comment</string>
+    <string name="commentRate">Rate</string>
+    <string name="GameComment">Comment</string>
+    <string name="submit">submit</string>
+    <string name="current">Current Rating</string>
+    <string name="comments">Comments</string>
+</resources>
